@@ -78,5 +78,5 @@ typings/
 # Subdirectories
 src/**/.cache/
 src/**/node_modules/
+*/**/dist/
 src/**/*.lock
-dist/
