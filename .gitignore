@@ -79,3 +79,4 @@ typings/
 src/**/.cache/
 src/**/node_modules/
 src/**/*.lock
+dist/
