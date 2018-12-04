@@ -1,0 +1,10 @@
+{
+  "name": "@dicent/util",
+  "version": "0.0.1",
+  "description": "Utilities for dicent",
+  "main": "lib/index.js",
+  "license": "MIT",
+  "scripts": {
+  	"build": "tsc"
+  }
+}

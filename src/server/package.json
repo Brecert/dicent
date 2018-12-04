@@ -1,0 +1,16 @@
+{
+  "name": "@dicent/server",
+  "version": "0.0.1",
+  "description": "the dicent server",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node src/index.ts"
+  },
+  "dependencies": {
+    "express": "^4.16.4",
+    "express-ws": "^4.0.0"
+  },
+  "devDependencies": {
+    "ts-node": "^7.0.1"
+  }
+}

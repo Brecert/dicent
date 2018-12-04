@@ -1,0 +1,14 @@
+{
+  "name": "@dicent/websocket",
+  "version": "0.0.2",
+  "description": "Decent websocket",
+  "main": "lib/websocket/index.js",
+  "author": "brecert",
+  "license": "MIT",
+  "scripts": {
+    "build": "tsc"
+  },
+  "devDependencies": {
+    "typescript": "^3.2.1"
+  }
+}
